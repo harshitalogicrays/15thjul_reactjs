@@ -1,0 +1,14 @@
+boilerplate code 
+scaffolding 
+
+github -> 
+npm start ---->index.js ----> index.html
+                  index.html--> App component
+				  
+===========================================
+bootstrap install 
+components create - function and class 
+parent --> child 
+props - properties 
+events - 
+jsx 
